@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=rlacofls&fontAlign=80&fontAlignY=40&color=gradient)
 
 <p>
-  <a href=https://www.instagram.com/rlacofls_/><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href=https://github.com/seizethedaylyn><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href=https://www.instagram.com/rlacofls_/><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align='left'>
