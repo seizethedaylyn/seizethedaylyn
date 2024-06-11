@@ -3,10 +3,10 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/seizethedaylyn"
-  weight = "600"
+  width="600"
   height="300"
 />
-  </a>
+</a>
 </p>
 <p>
   <a href=https://github.com/seizethedaylyn><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
